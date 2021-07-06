@@ -1,0 +1,64 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\01-Fundamentals-Part-1"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\02-Fundamentals-Part-2"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\03-Developer-Skills"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\04-HTML-CSS"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\05-Guess-My-Number"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\06-Modal"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\07-Pig-Game"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\08-Behind-the-Scenes"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\09-Data-Structures-Operators"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\10-Functions"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\11-Arrays-Bankist"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\12-Numbers-Dates-Timers-Bankist"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\13-Advanced-DOM-Bankist"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\14-OOP"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\15-Mapty"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\16-Asynchronous"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\17-Modern-JS-Modules-Tooling"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\complete-javascript-course-master\\18-forkify"
+		},
+		{
+			"path": "..\\..\\..\\Javascript\\Code"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "11-Arrays-Bankist"
+    }
+}
